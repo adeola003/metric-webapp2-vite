@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Rockets component renders correctly 1`] = `
+<h2>
+  Content is not fetched thus not available
+</h2>
+`;

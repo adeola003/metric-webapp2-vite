@@ -5,7 +5,7 @@ import world from '../assets/world-map.jpg';
 
 const Home = () => (
   <>
-    <section className="input-container">
+    <section data-testid="home" className="input-container">
       <Filter />
       <a href="https://gisgeography.com/wp-content/uploads/2022/04/High-Resolution-World-Map-2048x1024.jpg" target="_blank" rel="noreferrer">
         <img className="world-map" src={world} alt="World Map" />
