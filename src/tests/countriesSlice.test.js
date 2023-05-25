@@ -1,3 +1,6 @@
+// Add this line at the top of your test file
+import "@babel/preset-env";
+
 import { sum } from "../redux/countries/countriesSlice";
 
 test('sum function adds two numbers correctly', () => {
