@@ -69,7 +69,8 @@
 
  ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [coming soon](#)
+- [Site live here](https://adeolacountries.onrender.com/)
+- [Presention video] (https://www.loom.com/share/1c4f82a098b14d2f82b9d5d5fc1598e9)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
