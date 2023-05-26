@@ -1,5 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Test Country details component renders correctly 1`] = `
+<h2>
+  Content is not fetched thus not available
+</h2>
+`;
+
 exports[`Test Rockets component renders correctly 1`] = `
 <h2>
   Content is not fetched thus not available

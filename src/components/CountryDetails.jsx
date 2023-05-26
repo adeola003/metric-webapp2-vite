@@ -19,7 +19,7 @@ const CountryDetails = () => {
     return (<h2>Content is not fetched thus not available</h2>);
   }
   return (
-    <section className='country-details'>
+    <section className="country-details">
       <div>
         <h1>{countryResult[0].name.official}</h1>
         <img src={countryResult[0].flags.png} alt={`Flag of ${countryResult[0].name.common}`} />
@@ -69,7 +69,10 @@ const CountryDetails = () => {
           <p>Country borders:&nbsp;</p>
           {countryResult[0].borders ? (countryResult[0].borders.map((border) => (
             <Link className="border-name" to={`/${border}`} key={border}>
-              <p>&nbsp;{border}&nbsp;</p>
+              <p>
+                {border}
+&nbsp;
+              </p>
             </Link>
           ))
           )
