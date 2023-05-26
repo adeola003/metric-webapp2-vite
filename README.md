@@ -58,7 +58,6 @@
 
 - [x] Created a web app using react-redux
 - [x] Added all necessary fetures for displaying Rockets and Missions.
-- [x] Used React and Redux technology.
 - [x] Used `axios` to fetch data from the API.
 - [x] Used store, actions and reducers in React.
 - [x] Used React hooks.
@@ -69,8 +68,8 @@
 
  ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Site live here](#)
-- [Presention video] (https://www.loom.com/share/1c4f82a098b14d2f82b9d5d5fc1598e9)
+- [Site live here](https://deolareactcap.onrender.com/)
+- [Presention video](https://www.loom.com/share/1c4f82a098b14d2f82b9d5d5fc1598e9)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
