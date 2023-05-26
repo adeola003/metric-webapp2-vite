@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Countries component renders correctly 1`] = `null`;
+
+exports[`Test Rockets component renders correctly 1`] = `null`;
