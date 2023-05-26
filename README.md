@@ -163,7 +163,7 @@ To check for js errors run:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [x] Add the live demo for the project
+- [x] Add search by country for the project
 - [x] Add new interesting features to the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
