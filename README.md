@@ -163,7 +163,7 @@ To check for js errors run:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [x] Add the live demo for the project
+- [x] Add search by country for the project
 - [x] Add new interesting features to the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -192,7 +192,8 @@ If you like this feel free to follow me on github and give this project a star.
 
 - Thanks to the Microverse team for the great curriculum.
 - Thanks to the Code Reviewer(s) for the insightful feedbacks.
-- Hat tip to anyone whose code was used.
+- Thanks and credit to Nelson Sakwa the author of the original design.
+- Thanks to CodeBrew that built an similar app and helped me a lot with my project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
